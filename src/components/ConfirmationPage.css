@@ -1,0 +1,49 @@
+.confirmation-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 0 0 5px 5px;
+    width: 450px;
+    background-color: #f9f9f9;
+  }
+  .confirmation-container button{
+    margin-left: 33%;
+    background-color: #0056b3;
+  }
+  
+  .confirmation-heading {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+  }
+  .booking-details{
+    text-align: center;
+  }
+  
+  .booking-details,
+  .flight-details {
+    margin-bottom: 20px;
+  }
+  
+  .booking-details h3,
+  .flight-details h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .booking-details p,
+  .flight-details p {
+    margin-bottom: 5px;
+    text-align: left;
+  }
+  
+  .booking-details p strong,
+  .flight-details p strong {
+    margin-right: 10px;
+    font-weight: bold;
+  }
+  input[type="text"], input[type="date"] {
+    margin: 0px;
+  }
